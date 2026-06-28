@@ -22,7 +22,7 @@ User-agent: YandexBot
 Crawl-delay: 5
 
 # Host declaration for clarity
-Host: https://www.dmozz.eu.cc
+Host: https://dmozz.eu.cc
 
 # Primary Dynamic XML Sitemap Location
-Sitemap: https://www.dmozz.eu.cc/sitemap.xml
+Sitemap: https://dmozz.eu.cc/sitemap.xml
