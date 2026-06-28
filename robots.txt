@@ -1,0 +1,28 @@
+# ==========================================
+# Optimized robots.txt for dmoz-sitemap Project
+# ==========================================
+
+User-agent: *
+Allow: /
+
+# Disallow common junk paths, administration and systemic folders
+Disallow: /_site/
+Disallow: /.github/
+Disallow: /node_modules/
+Disallow: /package.json
+Disallow: /package-lock.json
+Disallow: /update_sitemap.js
+Disallow: /sitemap-generator.yml
+
+# Crawl-delay for aggressive bots to protect performance
+User-agent: Baiduspider
+Crawl-delay: 10
+
+User-agent: YandexBot
+Crawl-delay: 5
+
+# Host declaration for clarity
+Host: cepfixpayas.github.io
+
+# Primary Dynamic XML Sitemap Location
+Sitemap: https://cepfixpayas.github.io/dmoz-sitemap/sitemap.xml
