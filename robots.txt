@@ -22,7 +22,7 @@ User-agent: YandexBot
 Crawl-delay: 5
 
 # Host declaration for clarity
-Host: cepfixpayas.github.io
+Host: https://www.dmozz.eu.cc
 
 # Primary Dynamic XML Sitemap Location
-Sitemap: https://cepfixpayas.github.io/dmoz-sitemap/sitemap.xml
+Sitemap: https://www.dmozz.eu.cc/sitemap.xml
